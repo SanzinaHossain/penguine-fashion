@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Cookie&family=Fredoka+One&family=Pacifico&family=Poppins:ital@0;1&family=Righteous&family=Secular+One&display=swap');
+
+a .img-logo
+{
+    height:50px;
+    width:200px;
+}
+.img-model{
+    height: 400px;
+    width:400px;
+}
+h1{
+    font-size: 4em;
+    font-family: 'Anton', sans-serif;
+
+    font-family: 'Cookie', cursive;
+
+    font-family: 'Fredoka One', cursive;
+
+    font-family: 'Pacifico', cursive;
+
+    font-family: 'Poppins', sans-serif;
+
+    font-family: 'Righteous', cursive;
+
+    font-family: 'Secular One', sans-serif;
+}
